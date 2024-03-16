@@ -1,2 +1,2 @@
-# SentimentAnalysisofSocialMedia
+# SentimentAnalysisonSocialMedia
 new repo
